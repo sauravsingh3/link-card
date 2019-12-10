@@ -11,3 +11,14 @@ body {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.link-card {
+  display: block;
+  background-color: #dcd4cd;
+  border: solid #cabdb2;
+  border-width: 3px;
+  border-radius: 3px;
+  padding: 1rem;
+  text-decoration: none;
+  color: #785439;
+}
